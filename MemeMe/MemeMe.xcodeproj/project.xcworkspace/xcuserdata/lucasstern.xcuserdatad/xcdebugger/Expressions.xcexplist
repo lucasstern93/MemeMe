@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.getKeyboardHeight(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "txtBotton.frame">
+            </PersistentString>
+            <PersistentString
+               value = "keyboardSize.cgRectValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SentMemesViewController.viewWillAppear(_:):SentMemesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "appDelegate.memes">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
